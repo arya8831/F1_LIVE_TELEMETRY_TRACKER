@@ -217,4 +217,5 @@ No copyright infringement intended. Formula 1 and related trademarks are the pro
 
 ---
 
-Built with ❤️ by [Tom Shaw](https://tomshaw.dev)
+
+
